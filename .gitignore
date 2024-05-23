@@ -8,3 +8,9 @@ yarn-error.log
 
 
 *.zip
+
+/attachments/
+/cache/
+/install/
+/install-old/
+/RND/
