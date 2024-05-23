@@ -3,6 +3,7 @@
 
 // ==> GENERAL
 
+// 
 // --> General settings
 $hesk_settings['site_title']='Website';
 $hesk_settings['site_url']='http://hesk.test';
