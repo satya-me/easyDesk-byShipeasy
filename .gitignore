@@ -15,5 +15,5 @@ yarn-error.log
 /install-old/
 /RND/
 
-# code files
+# Ignore hesk_settings.inc.php
 /hesk_settings.inc.php
